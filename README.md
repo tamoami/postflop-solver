@@ -1,5 +1,13 @@
 # postflop-solver
 
+> [!NOTE]
+> This repository is a public provenance fork of
+> [b-inary/postflop-solver](https://github.com/b-inary/postflop-solver) for the
+> local GTO Dataset Factory proof of concept. Factory builds pin the audited
+> upstream commit `9d1509fe5077d019825f833eed04b16d342dfda1` by exact Cargo
+> `rev`; the fork does not imply ownership of the upstream project. The
+> original GNU AGPL v3-or-later license and copyright notices are preserved.
+
 > [!IMPORTANT]
 > **As of October 2023, I have started developing a poker solver as a business and have decided to suspend development of this open-source project. See [this issue] for more information.**
 
